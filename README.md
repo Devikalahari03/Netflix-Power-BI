@@ -1,6 +1,6 @@
 # Netflix-Power-BI
 
-![image](https://github.com/Devikalahari03/Netflix-Power-BI/assets/157952673/c068d7d9-88a8-46ca-beb9-7e2af9aa1485)
+![image](https://github.com/Devikalahari03/Netflix-Power-BI/assets/157952673/f292b274-d3b6-4e14-a6c9-c31bcca3f0f5)
 
 # Title: Netflix Movies and TV Shows Analytics - Power BI Project
 
